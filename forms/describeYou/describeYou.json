@@ -16,7 +16,25 @@
         "forms",
         "describeYou",
         "Elements",
-        "lblPrompt2.json"
+        "rdoCharacteristics.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnNextPage.json"
       ]
     }
   ],
